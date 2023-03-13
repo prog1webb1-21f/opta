@@ -28,6 +28,7 @@ Se till nodejs är installerat och då gärna den senaste LTS-versionen.
 Använd npm för att installera sharp.js
 https://sharp.pixelplumbing.com/install
 
+https://docs.google.com/document/d/1sQifk-vVhOpmkgCCoKtB2D8UqLOtfwolarLCY7BpCNE/
 
 
 
@@ -39,8 +40,4 @@ https://sharp.pixelplumbing.com/install
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
 
-
-
-
-## Resurser
 
